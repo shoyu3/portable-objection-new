@@ -1,0 +1,51 @@
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Runtime data
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# Editor directories and files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Environment files
+.env
+.env.*
+.env.local
+.env.development
+.env.production
+
+# Dependency directories
+node_modules/
+/.pnp
+.pnp.js
+
+# Vite cache
+.cache/
+.temp/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Local Netlify folder
+.netlify
+
+# Debugger
+.vscode/
+
+-/

@@ -1,0 +1,31 @@
+::selection {
+  background-color: #0094e8;
+  color: #fff;
+}
+
+::-moz-selection {
+  background-color: #0094e8;
+  color: #fff;
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #fff8;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #0006;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #000a;
+}
+
+.aplayer-lrc {
+  display: none !important;
+}
