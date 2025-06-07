@@ -41,7 +41,7 @@
               <v-btn
                 color="primary"
                 variant="text"
-                href="https://github.com/shoyu3/Portable-objection"
+                href="https://github.com/shoyu3/portable-objection-new"
                 target="_blank"
                 prepend-icon="mdi-github"
                 >GitHub
